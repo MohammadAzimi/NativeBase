@@ -1,8 +1,15 @@
 # NativeBase [![Financial Contributors on Open Collective](https://opencollective.com/NativeBase/all/badge.svg?label=financial+contributors)](https://opencollective.com/NativeBase) [![](http://slack.nativebase.io/badge.svg)](http://slack.nativebase.io/) [![Build Status](https://travis-ci.org/GeekyAnts/NativeBase.svg?branch=master)](https://travis-ci.org/GeekyAnts/NativeBase) [![npm version](https://badge.fury.io/js/native-base.svg)](https://badge.fury.io/js/native-base) [![npm downloads](https://img.shields.io/npm/dt/native-base.svg)](https://npm-stat.com/charts.html?package=native-base&from=2016-04-01&to=2018-02-17)
 
-
 [![NPM](https://nodei.co/npm/native-base.png?downloads=true)](https://nodei.co/npm/native-base/)
 # This is a fork from [@matias91](https://github.com/matias91/NativeBase) which is actually a [pull request](https://github.com/GeekyAnts/NativeBase/pull/3280) that is not merged and released yet.
+
+#### run command below and then follow other steps in [Getting Started](#4-getting-started) section
+```js
+npm i @red-elephant/native-base
+```
+
+
+
 
 Essential cross-platform UI components for React Native
 
