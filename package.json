@@ -1,5 +1,5 @@
 {
-  "name": "native-base",
+  "name": "@red-elephant/native-base",
   "description": "Essential cross-platform UI components for React Native",
   "keywords": [
     "android",
@@ -26,7 +26,7 @@
       "node_modules/(?!react-native|@shoutem|react-clone-referenced-element|native-base-shoutem-theme)"
     ]
   },
-  "version": "2.13.14",
+  "version": "2.13.17",
   "license": "Apache-2.0",
   "private": false,
   "dependencies": {
@@ -88,7 +88,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeekyAnts/NativeBase.git"
+    "url": "git+https://github.com/MohammadAzimi/NativeBase"
   },
   "collective": {
     "type": "opencollective",
